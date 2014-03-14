@@ -13,11 +13,11 @@ The Python standard library
 
 ## ```re``` exercises
 
-- [Auto backup](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/auto_backup.md): Intermediate exercise, include ```shutil```.
+- [Auto backup](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/auto_backup.md): Intermediate exercise, includes ```shutil```.
 
 ## ```shutil``` exercises
 
-- [Auto backup](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/auto_backup.md): Intermediate exercise, include ```re```.
+- [Auto backup](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/auto_backup.md): Intermediate exercise, includes ```re```.
 
 ## ```csv``` exercises
 
