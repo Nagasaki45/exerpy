@@ -10,12 +10,10 @@ def file_stats(filename):
     lines = [l for l in lines if l]
     print('    {:10}{}'.format('Lines:', len(lines)))
     # print number of words
-    words = []
-    [[words.append(w) for w in l.split()] for l in lines]
+    words = [w for w in l.split() for l in lines]
     print('    {:10}{}'.format('Words:', len(words)))
     # print number of alpha numeric characters
-    chars = []
-    [[chars.append(c) for c in w if c.isalpha()] for w in words]
+    chars = [c for c in w if c.isalpha() for w in words]
     print('    {:10}{}'.format('Chars:', len(chars)))
 
 
