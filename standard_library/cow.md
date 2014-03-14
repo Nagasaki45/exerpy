@@ -1,7 +1,7 @@
 Countries Of The World
 ======================
 
-Grab the csv file from: TODO
+Grab the csv file from [here](https://raw.github.com/Nagasaki45/exerpy/master/standard_library/cow.csv).
 
 Parse it into a comfortable format and create a static website that shows info about each country:
 
