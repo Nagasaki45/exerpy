@@ -1,0 +1,250 @@
+short_name,name,long_name,capital,lat,lon,continent,population,land
+AF,Afghanistan,the Islamic Republic of Afghanistan,Kabul,33.0,65.0,AS,30419928.0,652230.0
+AX,Aland Islands,,Mariehamn,60.25,20.0,EU,28007.0,
+AL,Albania,the Republic of Albania,Tirana,41.0,20.0,EU,3002859.0,28748.0
+DZ,Algeria,the People's Democratic Republic of Algeria,Algiers,28.0,3.0,AF,35406303.0,2381741.0
+AS,American Samoa,,Pago Pago,-14.333333333299999,-170.0,OC,68061.0,199.0
+AD,Andorra,the Principality of Andorra,Andorra la Vella,42.5,1.5,EU,85082.0,468.0
+AO,Angola,the Republic of Angola,Luanda,-12.5,18.5,AF,18056072.0,1246700.0
+AI,Anguilla,,The Valley,18.25,-63.1666666667,,15423.0,91.0
+AQ,Antarctica,,,-90.0,,AN,,14000000.0
+AG,Antigua and Barbuda,Antigua and Barbuda,Saint John's,17.05,-61.8,,89018.0,
+AR,Argentina,the Argentine Republic,Buenos Aires,-34.0,-64.0,SA,42192494.0,2780400.0
+AM,Armenia,the Republic of Armenia,Yerevan,40.0,45.0,AS,2970495.0,29743.0
+AW,Aruba,,Oranjestad,12.5,-69.96666666670001,,107635.0,180.0
+AU,Australia,Australia,Canberra,-27.0,133.0,OC,22015576.0,7741220.0
+AT,Austria,the Republic of Austria,Vienna,47.3333333333,13.333333333299999,EU,8219743.0,83871.0
+AZ,Azerbaijan,the Republic of Azerbaijan,Baku,40.5,47.5,AS,9493600.0,86600.0
+BS,Bahamas,the Commonwealth of the Bahamas,Nassau,24.25,-76.0,,316182.0,13880.0
+BH,Bahrain,The Kingdom of Bahrain,Manama,26.0,50.55,AS,1248348.0,760.0
+BD,Bangladesh,the People's Republic of Bangladesh,Dhaka,24.0,90.0,AS,161083804.0,143998.0
+BB,Barbados,Barbados,Bridgetown,13.166666666700001,-59.5333333333,,287733.0,430.0
+BY,Belarus,the Republic of Belarus,Minsk,53.0,28.0,EU,9542883.0,207600.0
+BE,Belgium,the Kingdom of Belgium,Brussels,50.8333333333,4.0,EU,10438353.0,30528.0
+BZ,Belize,Belize,Belmopan,17.25,-88.75,,327719.0,22966.0
+BJ,Benin,the Republic of Benin,Porto-Novo,9.5,2.25,AF,9598787.0,112622.0
+BM,Bermuda,,Hamilton,32.3333333333,-64.75,,69080.0,54.0
+BT,Bhutan,the Kingdom of Bhutan,Thimphu,27.5,90.5,AS,716896.0,38394.0
+BO,"Bolivia, Plurinational State of",Plurinational State of Bolivia (the),La Paz,-17.0,-65.0,SA,10290003.0,1098581.0
+BQ,"Bonaire, Sint Eustatius and Saba",,,12.166666666700001,-68.25,,,
+BA,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,44.0,18.0,EU,4622292.0,51197.0
+BW,Botswana,the Republic of Botswana,Gaborone,-22.0,24.0,AF,2098018.0,581730.0
+BV,Bouvet Island,,,-54.4333333333,3.4,AN,,49.0
+BR,Brazil,the Federative Republic of Brazil,Brasilia,-10.0,-55.0,SA,205716890.0,8514877.0
+IO,British Indian Ocean Territory,,,-6.0,71.5,AS,4000.0,54400.0
+BN,Brunei Darussalam,Brunei Darussalam,Bandar Seri Begawan,4.5,114.666666667,AS,408786.0,5765.0
+BG,Bulgaria,the Republic of Bulgaria,Sofia,43.0,25.0,EU,7037935.0,110879.0
+BF,Burkina Faso,Burkina Faso,Ouagadougou,13.0,-2.0,AF,17275115.0,274200.0
+BI,Burundi,the Republic of Burundi,Bujumbura,-3.5,30.0,AF,10557259.0,27830.0
+KH,Cambodia,the Kingdom of Cambodia,Phnom Penh,13.0,105.0,AS,14952665.0,181035.0
+CM,Cameroon,the Republic of Cameroon,Yaounde,6.0,12.0,AF,20129878.0,475440.0
+CA,Canada,Canada,Ottawa,60.0,-95.0,,34300083.0,9984670.0
+CV,Cape Verde,the Republic of Cape Verde,Praia,16.0,-24.0,AF,523568.0,4033.0
+KY,Cayman Islands,,George Town,19.5,-80.5,,52560.0,264.0
+CF,Central African Republic,the Central African Republic,Bangui,7.0,21.0,AF,5057208.0,622984.0
+TD,Chad,the Republic of Chad,N'Djamena,15.0,19.0,AF,10975648.0,
+CL,Chile,the Republica de Chile,Santiago,-30.0,-71.0,SA,17067369.0,756102.0
+CN,China,the People's Republic of China,Beijing,35.0,105.0,AS,1343239923.0,9596961.0
+CX,Christmas Island,,The Settlement,-10.5,105.666666667,AS,1496.0,135.0
+CC,Cocos (Keeling) Islands,,West Island,-12.5,96.8333333333,AS,596.0,14.0
+CO,Colombia,the Republic of Columbia,Bogota,4.0,-72.0,SA,45239079.0,1138910.0
+KM,Comoros,the Union of the Comoros (the),Moroni,-12.166666666700001,44.25,AF,737284.0,2235.0
+CG,Congo,the Republic of the Congo,Brazzaville,,15.0,AF,4125916.0,342000.0
+CD,"Congo, The Democratic Republic of the",the Democratic Republic of The Congo,Kinshasa,0.0166666666667,25.0,AF,73599190.0,2344858.0
+CK,Cook Islands,,Avarua,-21.2333333333,-159.766666667,OC,10777.0,236.0
+CR,Costa Rica,the Republic of Costa Rica,San Jose,10.0,-84.0,,4636348.0,51100.0
+CI,Cote d'Ivoire,the Republic of Cote d'Ivoire,Yamoussoukro,8.0,-5.0,AF,21952093.0,322463.0
+HR,Croatia,the Republic of Crotia,Zagreb,45.1666666667,15.5,EU,4480043.0,56594.0
+CU,Cuba,the Republic of Cuba,Havana,21.5,-80.0,,11075244.0,110860.0
+CW,Curacao,,Willemstad,12.166666666700001,-69.0,,142180.0,444.0
+CY,Cyprus,the Republic of Cyprus,Nicosia,35.0,33.0,AS,1138071.0,9251.0
+CZ,Czech Republic,the Czech Republic,Prague,49.75,15.5,EU,10177300.0,78867.0
+DK,Denmark,the Kingdom of Denmark,Copenhagen,56.0,10.0,EU,5543453.0,43094.0
+DJ,Djibouti,the Republic of Djibouti,Djibouti,11.5,43.0,AF,774389.0,23200.0
+DM,Dominica,the Commonwealth of Dominica,Roseau,15.416666666700001,-61.3333333333,,73126.0,751.0
+DO,Dominican Republic,the Dominican Republic,Santo Domingo,19.0,-70.6666666667,,10088598.0,48670.0
+EC,Ecuador,the Republic of Ecuador,Quito,-2.0,-77.5,SA,15223680.0,283561.0
+EG,Egypt,the Arab Republic of Egypt,Cairo,27.0,30.0,AF,83688164.0,1001450.0
+SV,El Salvador,the Republic of El Salvador,San Salvador,13.833333333299999,-88.9166666667,,6090646.0,21041.0
+GQ,Equatorial Guinea,the Republic of Equatorial Guinea,Malabo,2.0,10.0,AF,685991.0,28051.0
+ER,Eritrea,Eritrea,Asmara,15.0,39.0,AF,6086495.0,117600.0
+EE,Estonia,the Republic of Estonia,Tallinn,59.0,26.0,EU,1274709.0,45228.0
+ET,Ethiopia,the Federal Democratic Republic of Ethiopia,Addis Ababa,8.0,38.0,AF,93815992.0,1104300.0
+FK,Falkland Islands (Malvinas),,Stanley,-51.75,-59.0,SA,3140.0,12173.0
+FO,Faroe Islands,,Torshavn,62.0,-7.0,EU,49483.0,1393.0
+FJ,Fiji,the Republic of Fiji,Suva,-18.0,175.0,OC,890057.0,18274.0
+FI,Finland,the Republic of Finland,Helsinki,64.0,26.0,EU,5262930.0,338145.0
+FR,France,the French Republic,Paris,46.0,2.0,EU,65630692.0,643801.0
+GF,French Guiana,,Cayenne,4.0,-53.0,SA,217000.0,
+PF,French Polynesia,,Papeete,-15.0,-140.0,OC,274512.0,4167.0
+TF,French Southern Territories,,,-37.8333333333,77.53333333329999,AN,,
+GA,Gabon,the Gabonese Republic,Libreville,,11.75,AF,1608321.0,267667.0
+GM,Gambia,the Republic of The Gambia,Banjul,13.4666666667,-16.5666666667,AF,1840454.0,11295.0
+GE,Georgia,Georgia,T'bilisi,42.0,43.5,AS,4570934.0,69700.0
+DE,Germany,the Federal Republic of Germany,Berlin,51.0,9.0,EU,81305856.0,357022.0
+GH,Ghana,the Republic of Ghana,Accra,8.0,-2.0,AF,25241998.0,238533.0
+GI,Gibraltar,,Gibraltar,36.1333333333,-5.35,EU,29034.0,
+GR,Greece,the Hellenic Republic,Athens,39.0,22.0,EU,10767827.0,131957.0
+GL,Greenland,,Nuuk,72.0,-40.0,,57695.0,2166086.0
+GD,Grenada,Grenada,Saint George's,12.1166666667,-61.6666666667,,109011.0,344.0
+GP,Guadeloupe,,Basse-Terre,16.25,-61.5833333333,,405500.0,
+GU,Guam,,Hagatna,13.4666666667,144.783333333,OC,183286.0,544.0
+GT,Guatemala,the Republic of Guatemala,Guatemala City,15.5,-90.25,,14099032.0,108889.0
+GG,Guernsey,,Saint Peter Port,49.4666666667,-2.58333333333,EU,64775.0,78.0
+GN,Guinea,the Republic of Guinea,Conakry,11.0,-10.0,AF,10884958.0,245857.0
+GW,Guinea-Bissau,the Republic of Guinea-Bissau,Bissau,12.0,-15.0,AF,1628603.0,36125.0
+GY,Guyana,the Republic of Guyana,Georgetown,5.0,-59.0,SA,741908.0,214969.0
+HT,Haiti,the Republic of Haiti,Port-au-Prince,19.0,-72.4166666667,,9801664.0,27750.0
+HM,Heard Island and McDonald Islands,,,-53.1,72.5166666667,OC,,412.0
+VA,Holy See (Vatican City State),,Vatican City,41.9,12.45,EU,836.0,
+HN,Honduras,the Republic of Honduras,Tegucigalpa,15.0,-86.5,,8296693.0,112090.0
+HK,Hong Kong,,,22.25,114.166666667,AS,7153519.0,1104.0
+HU,Hungary,the Republic of Hungary,Budapest,47.0,20.0,EU,9958453.0,93028.0
+IS,Iceland,the Republic of Iceland,Reykjavik,65.0,-18.0,EU,313183.0,103000.0
+IN,India,the Republic of India,New Delhi,20.0,77.0,AS,1205073612.0,3287263.0
+ID,Indonesia,the Republic of Indonesia,Jakarta,-5.0,120.0,AS,248216193.0,1904569.0
+IR,"Iran, Islamic Republic of",the Islamic Republic of Iran,Tehran,32.0,53.0,AS,78868711.0,1648195.0
+IQ,Iraq,the Republic of Iraq,Baghdad,33.0,44.0,AS,31129225.0,438317.0
+IE,Ireland,Ireland,Dublin,53.0,-8.0,EU,4722028.0,70273.0
+IM,Isle of Man,,Douglas,54.25,-4.5,EU,85421.0,572.0
+IL,Israel,the State of Israel,Jerusalem,31.5,34.75,AS,7590758.0,20770.0
+IT,Italy,the Italian Republic,Rome,42.8333333333,12.833333333299999,EU,61261254.0,301340.0
+JM,Jamaica,Jamaica,Kingston,18.25,-77.5,,2889187.0,10991.0
+JP,Japan,Japan,Tokyo,36.0,138.0,AS,127368088.0,377915.0
+JE,Jersey,,Saint Helier,49.25,-2.16666666667,EU,94949.0,116.0
+JO,Jordan,the Hashemite Kingdom of Jordan,Amman,31.0,36.0,AS,6508887.0,89342.0
+KZ,Kazakhstan,the Republic of Kazakhstan,Astana,48.0,68.0,AS,17522010.0,2724900.0
+KE,Kenya,the Republic of Kenya,Nairobi,1.0,38.0,AF,43013341.0,580367.0
+KI,Kiribati,the Republic of Kiribati,Tarawa,1.4166666666699999,173.0,OC,101998.0,811.0
+KP,"Korea, Democratic People's Republic of",the Democratic People's Republic of Korea,Pyongyang,40.0,127.0,AS,24589122.0,120538.0
+KR,"Korea, Republic of",the Republic of Korea,Seoul,37.0,127.5,AS,48860500.0,99720.0
+KW,Kuwait,the State of Kuwait,Kuwait City,29.366667,47.966667,AS,2646314.0,17818.0
+KG,Kyrgyzstan,the Kyrgyz Republic,Bishkek,41.0,75.0,AS,5496737.0,199951.0
+LA,Lao People's Democratic Republic,the Lao People's Democratic Republic,Vientiane,18.0,105.0,AS,6586266.0,236800.0
+LV,Latvia,the Republic of Latvia,Riga,57.0,25.0,EU,2191580.0,64589.0
+LB,Lebanon,the Lebanese Republic,Beirut,33.8333333333,35.8333333333,AS,4140289.0,10400.0
+LS,Lesotho,the Kingdom of Lesotho,Maseru,-29.5,28.5,AF,1930493.0,30355.0
+LR,Liberia,the Republic of Liberia,Monrovia,6.5,-9.5,AF,3887886.0,111369.0
+LY,Libyan Arab Jamahiriya,the Socialist People's Libyan Arab Jamahiriya,Tripoli,25.0,17.0,AF,6733620.0,1759540.0
+LI,Liechtenstein,the Principality of Liechtenstein,Vaduz,47.2666666667,9.53333333333,EU,36713.0,160.0
+LT,Lithuania,the Republic of Lithuania,Vilnius,56.0,24.0,EU,3525761.0,65300.0
+LU,Luxembourg,the Grand Duche de Luxembourg,Luxembourg,49.75,6.166666666669999,EU,509074.0,2586.0
+MO,Macao,,,22.1666666667,113.55,AS,578025.0,
+MK,"Macedonia, The Former Yugoslav Republic of",The former Yugoslav Republic of Macedonia,Skopje,41.8333333333,22.0,EU,2082370.0,25713.0
+MG,Madagascar,the Republic of Madagascar,Antananarivo,-20.0,47.0,AF,22585517.0,587041.0
+MW,Malawi,the Republic of Malawi,Lilongwe,-13.5,34.0,AF,16323044.0,118484.0
+MY,Malaysia,Malaysia,Kuala Lumpur,2.5,112.5,AS,29179952.0,329847.0
+MV,Maldives,the Republic of Maldives,Male,3.25,73.0,AS,394451.0,298.0
+ML,Mali,the Republic of Mali,Bamako,17.0,-4.0,AF,14533511.0,1240192.0
+MT,Malta,the Republic of Malta,Valletta,35.8333333333,14.583333333299999,EU,409836.0,316.0
+MH,Marshall Islands,the Republic of the Marshall Islands,Majuro,9.0,168.0,OC,68480.0,181.0
+MQ,Martinique,,Fort-de-France,14.6,-61.0833333333,,397730.0,
+MR,Mauritania,the Islamic Republic of Mauritania,Nouakchott,20.0,-12.0,AF,3359185.0,1030700.0
+MU,Mauritius,The Republic of Mauritius,Port Louis,-20.2833333333,57.55,AF,1313095.0,2040.0
+YT,Mayotte,,Mamoudzou,-12.833333333299999,45.1666666667,AF,231139.0,
+MX,Mexico,the United Mexican States,Mexico City,23.0,-102.0,,114975406.0,1964375.0
+FM,"Micronesia, Federated States of",the Federated States of Micronesia,Palikir,6.916666666669999,158.25,OC,106487.0,702.0
+MD,"Moldova, Republic of",the Republic of Moldova,Chisinau,47.0,29.0,EU,3656843.0,33851.0
+MC,Monaco,the Principality of Monaco,Monaco,43.732778,7.419722,EU,30510.0,2.0
+MN,Mongolia,Mongolia,Ulaanbaatar,46.0,105.0,AS,3179997.0,1564116.0
+ME,Montenegro,Montenegro,Podgorica,42.5,19.3,EU,657394.0,13812.0
+MS,Montserrat,,Plymouth,16.75,-62.2,,5164.0,102.0
+MA,Morocco,the Kingdom of Morocco,Rabat,32.0,-5.0,AF,32309239.0,446550.0
+MZ,Mozambique,the Republic of Mozambique,Maputo,-18.25,35.0,AF,23515934.0,799380.0
+MM,Myanmar,the Republic of the Union of Myanmar,Rangoon,22.0,98.0,AS,54584650.0,676578.0
+,Namibia,the Republic of Namibia,Windhoek,-22.0,17.0,AF,2165828.0,824292.0
+NR,Nauru,the Republic of Nauru,Yaren District,-0.533333333333,166.91666666700002,OC,9378.0,21.0
+NP,Nepal,the Federal Democratic Republic of Nepal,Kathmandu,28.0,84.0,AS,29890686.0,147181.0
+NL,Netherlands,the Kingdom of the Netherlands,Amsterdam,52.5,5.75,EU,16730632.0,41543.0
+NC,New Caledonia,,Noumea,-21.5,165.5,OC,260166.0,18575.0
+NZ,New Zealand,New Zealand,Wellington,-41.0,174.0,OC,4327944.0,267710.0
+NI,Nicaragua,the Republic of Nicaragua,Managua,13.0,-85.0,,5727707.0,130370.0
+NE,Niger,the Republic of the Niger,Niamey,16.0,8.0,AF,17078839.0,
+NG,Nigeria,the Federal Republic of Nigeria,Abuja,10.0,8.0,AF,170123740.0,923768.0
+NU,Niue,Niue,Alofi,-19.0333333333,-169.866666667,OC,1269.0,260.0
+NF,Norfolk Island,,Kingston,-29.0333333333,167.95,OC,2182.0,36.0
+MP,Northern Mariana Islands,,Saipan,15.2,145.75,OC,44582.0,464.0
+NO,Norway,the Kingdom of Norway,Oslo,62.0,10.0,EU,4707270.0,323802.0
+PS,Occupied Palestinian Territory,,East Jerusalem,32.0,35.25,AS,4199083.0,5860.0
+OM,Oman,the Sultanate of Oman,Muscat,21.0,57.0,AS,3090150.0,309500.0
+PK,Pakistan,the Islamic Republic of Pakistan,Islamabad,30.0,70.0,AS,190291129.0,796095.0
+PW,Palau,the Republic of Palau,Melekeok,7.5,134.5,OC,21032.0,459.0
+PA,Panama,the Republic of Panama,Panama City,9.0,-80.0,,3510045.0,75420.0
+PG,Papua New Guinea,Papua New Guinea,Port Moresby,-6.0,147.0,OC,6310129.0,462840.0
+PY,Paraguay,the Republic of Paraguay,Asuncion,-23.0,-58.0,SA,6541591.0,406752.0
+PE,Peru,the Republic of Peru,Lima,-10.0,-76.0,SA,29549517.0,1285216.0
+PH,Philippines,the Republic of the Philippines,Manila,13.0,122.0,AS,103775002.0,300000.0
+PN,Pitcairn,,Adamstown,-25.0666666667,-130.1,OC,48.0,47.0
+PL,Poland,the Republic of Poland,Warsaw,52.0,20.0,EU,38415284.0,312685.0
+PT,Portugal,the Portuguese Republic,Lisbon,39.5,-8.0,EU,10781459.0,92090.0
+PR,Puerto Rico,,San Juan,18.25,-66.5,,3998905.0,13790.0
+QA,Qatar,the State of Qatar,Doha,25.5,51.25,AS,1951591.0,11586.0
+RE,Reunion,,Saint-Denis,-21.1,55.6,AF,827000.0,
+RO,Romania,Romania,Bucharest,46.0,25.0,EU,21848504.0,238391.0
+RU,Russian Federation,the Russian Federation,Moscow,60.0,100.0,EU,138082178.0,17098242.0
+RW,Rwanda,the Republic of Rwanda,Kigali,-2.0,30.0,AF,11689696.0,26338.0
+BL,Saint Barthelemy,,Gustavia,17.9,-62.833332999999996,,7332.0,
+SH,"Saint Helena, Ascension and Tristan da Cunha",,Jamestown,-15.95,-5.7,AF,7728.0,
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,Basseterre,17.3333333333,-62.75,,50726.0,261.0
+LC,Saint Lucia,Saint Lucia,Castries,13.8833333333,-60.9666666667,,162178.0,616.0
+MF,Saint Martin (French part),,Marigot,18.075278,-63.06,,30959.0,
+PM,Saint Pierre and Miquelon,,Saint-Pierre,46.8333333333,-56.3333333333,,5831.0,242.0
+VC,Saint Vincent and The Grenadines,Saint Vincent and the Grenadines,Kingstown,13.25,-61.2,,103537.0,389.0
+WS,Samoa,the Independent State of Samoa,Apia,-13.583333333299999,-172.33333333299998,OC,194320.0,2831.0
+SM,San Marino,the Republic of San Marino,San Marino,43.933333000000005,12.416666666700001,EU,32140.0,61.0
+ST,Sao Tome and Principe,the Democratic Republic of Sao Tome and Principe,Sao Tome,1.0,7.0,AF,183176.0,964.0
+SA,Saudi Arabia,the Kingdom of Saudi Arabia,Riyadh,25.0,45.0,AS,26534504.0,2149690.0
+SN,Senegal,the Republic of Senegal,Dakar,14.0,-14.0,AF,12969606.0,196722.0
+RS,Serbia,the Republic of Serbia,Belgrade,44.0,21.0,EU,7276604.0,77474.0
+SC,Seychelles,the Republic of Seychelles,Victoria,-4.58333333333,55.6666666667,AF,90024.0,455.0
+SL,Sierra Leone,the Republic of Sierra Leone,Freetown,8.5,-11.5,AF,5485998.0,71740.0
+SG,Singapore,the Republic of Singapore,Singapore,1.36666666667,103.8,AS,5353494.0,697.0
+SX,Sint Maarten (Dutch part),,Philipsburg,18.04167,-63.066669999999995,,37429.0,34.0
+SK,Slovakia,the Slovenska Republika,Bratislava,48.6666666667,19.5,EU,5483088.0,49035.0
+SI,Slovenia,the Republic of Slovenia,Ljubljana,46.1166666667,14.816666666700002,EU,1996617.0,20273.0
+SB,Solomon Islands,Solomon Islands,Honiara,-8.0,159.0,OC,584578.0,28896.0
+SO,Somalia,the Somalia Republic,Mogadishu,10.0,49.0,AF,10085638.0,637657.0
+ZA,South Africa,Republic of South Africa (the),Pretoria,-29.0,24.0,AF,48810427.0,1219090.0
+GS,South Georgia and the South Sandwich Islands,,King Edward Point,-54.5,-37.0,AN,,
+SS,South Sudan,,Juba,8.0,30.0,AF,10625176.0,
+ES,Spain,the Kingdom of Spain,Madrid,40.0,-4.0,EU,47042984.0,505370.0
+LK,Sri Lanka,the Democratic Socialist Republic of Sri Lanka,Colombo,7.0,81.0,AS,21481334.0,65610.0
+SD,Sudan,the Republic of the Sudan,Khartoum,15.0,30.0,AF,34206710.0,1861484.0
+SR,Suriname,the Republic of Suriname,Paramaribo,4.0,-56.0,SA,560157.0,163820.0
+SJ,Svalbard and Jan Mayen,,Longyearbyen,78.0,20.0,EU,2067.0,62045.0
+SZ,Swaziland,the Kingdom of Swaziland,Mbabane,-26.5,31.5,AF,1386914.0,17364.0
+SE,Sweden,the Kingdom of Sweden,Stockholm,62.0,15.0,EU,9103788.0,450295.0
+CH,Switzerland,the Confederation of Switzerland,Bern,47.0,8.0,EU,7655628.0,41277.0
+SY,Syrian Arab Republic,the Syrian Arab Republic,Damascus,35.0,38.0,AS,22530746.0,185180.0
+TW,"Taiwan, Province of China",Republic of China,Taipei,23.5,121.0,AS,23113901.0,35980.0
+TJ,Tajikistan,the Republic of Tajikistan,Dushanbe,39.0,71.0,AS,7768385.0,143100.0
+TZ,"Tanzania, United Republic of",the United Republic of Tanzania,Dar es Salaam,-6.0,35.0,AF,43601796.0,947300.0
+TH,Thailand,the Kingdom of Thailand,Bangkok,15.0,100.0,AS,67091089.0,513120.0
+TL,Timor-Leste,the Democratic Republic of Timor-Leste,Dili,-8.833333333330001,125.916666667,AS,1201255.0,14874.0
+TG,Togo,the Togolese Republic,Lome,8.0,1.16666666667,AF,6961049.0,56785.0
+TK,Tokelau,,,-9.0,-172.0,OC,1368.0,12.0
+TO,Tonga,the Kingdom of Tonga,Nuku'alofa,-20.0,-175.0,OC,106146.0,747.0
+TT,Trinidad and Tobago,the Republic of Trinidad and Tobago,Port-of-Spain,11.0,-61.0,,1226383.0,5128.0
+TN,Tunisia,the Republic of Tunisia,Tunis,34.0,9.0,AF,10732900.0,163610.0
+TR,Turkey,the Republic of Turkey,Ankara,39.0,35.0,AS,79749461.0,783562.0
+TM,Turkmenistan,Turkmenistan,Ashgabat,40.0,60.0,AS,5054828.0,488100.0
+TC,Turks and Caicos Islands,,Grand Turk,21.75,-71.5833333333,,46335.0,948.0
+TV,Tuvalu,Tuvalu,Funafuti,-8.0,178.0,OC,10619.0,26.0
+UG,Uganda,the Republic of Uganda,Kampala,1.0,32.0,AF,35873253.0,241038.0
+UA,Ukraine,Ukraine,Kyiv/Kiev,49.0,32.0,EU,44854065.0,603550.0
+AE,United Arab Emirates,the United Arab Emirates,Araabia Ühendemiraadid,24.0,54.0,AS,5314317.0,83600.0
+GB,United Kingdom,the United Kingdom of Great Britain and Northern Ireland,London,54.0,-2.0,EU,63047162.0,243610.0
+US,United States,the United States of America,"Washington, D.C.",38.0,-97.0,,313847465.0,9826675.0
+UM,United States Minor Outlying Islands,,,16.75,-169.516666667,OC,316.0,
+UY,Uruguay,the Eastern Republic of Uruguay,Montevideo,-33.0,-56.0,SA,3316328.0,176215.0
+UZ,Uzbekistan,the Republic of Uzbekistan,Tashkent,41.0,64.0,AS,28394180.0,447400.0
+VU,Vanuatu,the Republic of Vanuatu,Port Vila,-16.0,167.0,OC,227574.0,12189.0
+VE,"Venezuela, Bolivarian Republic of",the Bolivarian Republic of Venezuela,Caracas,8.0,-66.0,SA,28047938.0,912050.0
+VN,Viet Nam,the Socialist Republic of Vietnam,Hanoi,16.1666666667,107.833333333,AS,91519289.0,331210.0
+VG,"Virgin Islands, British",,Road Town,18.5,-64.5,,31148.0,151.0
+VI,"Virgin Islands, U.S.",,Charlotte Amalie,18.3333333333,-64.8333333333,,109574.0,1910.0
+WF,Wallis and Futuna,,Mata-Utu,-13.3,-176.2,OC,15453.0,142.0
+EH,Western Sahara,,Laayoune,24.5,-13.0,AF,522928.0,266000.0
+YE,Yemen,the Republic of Yemen,Sanaa,15.0,48.0,AS,24771809.0,527968.0
+ZM,Zambia,the Republic of Zambia,Lusaka,-15.0,30.0,AF,14309466.0,752618.0
+ZW,Zimbabwe,the Republic of Zimbabwe,Harare,-20.0,30.0,AF,12619600.0,390757.0
