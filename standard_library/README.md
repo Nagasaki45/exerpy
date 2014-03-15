@@ -13,6 +13,8 @@ The Python standard library
 
 ## ```re``` exercises
 
+- [Alien language](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/alien_language.md): Simple regex exercise, based on [codejam Qualification Round 2009](https://code.google.com/codejam/contest/90101/dashboard).
+
 - [Auto backup](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/auto_backup.md): Intermediate exercise, includes ```shutil```.
 
 ## ```shutil``` exercises
