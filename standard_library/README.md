@@ -10,6 +10,7 @@ The Python standard library
 
 - [Guess number](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/guess_number.md): Working with ```random.randint```, includes user input.
 - [Slot machine](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/slot_machine.md): Wording with ```random.choice```, includes user input.
+- [Word shuffle](https://github.com/Nagasaki45/exerpy/blob/master/standard_library/word_shuffle.md): Wording with ```random.shuffle```, includes user input.
 
 ## ```re``` exercises
 
