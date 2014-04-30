@@ -1,5 +1,4 @@
-'''
-Example of inheritance, method overriding (by knockout),
+'''Example of inheritance, method overriding (by knockout),
 and usage of mixins.
 '''
 
@@ -8,14 +7,18 @@ from six import unichr
 
 class Deck(object):
 
+    '''The base class for all the decks.
+    Contains a list of 52 cards, which can be rendered.
+    '''
+
     SUIT = [('S', 'Spades'),
             ('H', 'Hearts'),
             ('D', 'Diamonds'),
             ('C', 'Clubs')]
     SUIT_NAMES = dict(SUIT)
-    VALUES = ['0', 'Ace'] + [str(i) for i in range(2, 11)] + ['Jack',
-                                                              'Queen',
-                                                              'King']
+    VALUES = ['0', 'Ace'] + \
+             [str(i) for i in range(2, 11)] + \
+             ['Jack', 'Queen', 'King']
 
     def __init__(self):
         self.cards = [(t[0], v) for t in self.SUIT
@@ -36,6 +39,8 @@ print('')
 
 class HtmlDeck(Deck):
 
+    '''A subclass of Deck. With "render" overriden'''
+
     def render(self):
         out = ['<html><head><title>Html unicode deck</title></head><body>']
         out.append('<ul>')
@@ -53,6 +58,8 @@ print('')
 
 
 class UnicodeRenderMixin(object):
+
+    '''A mixin that change the way single card are rendered.'''
 
     def render_card(self, card):
         base = 0x1F0A0
