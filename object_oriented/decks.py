@@ -11,11 +11,8 @@ class Deck(object):
     Contains a list of 52 cards, which can be rendered.
     '''
 
-    SUIT = [('S', 'Spades'),
-            ('H', 'Hearts'),
-            ('D', 'Diamonds'),
-            ('C', 'Clubs')]
-    SUIT_NAMES = dict(SUIT)
+    SUIT = ['Spades', 'Hearts', 'Diamonds', 'Clubs']
+    SUIT_DICT = {s[0]: s for s in SUIT}
     VALUES = ['0', 'Ace'] + \
              [str(i) for i in range(2, 11)] + \
              ['Jack', 'Queen', 'King']
@@ -29,7 +26,7 @@ class Deck(object):
 
     def render_card(self, card):
         return u'{} of {}'.format(self.VALUES[card[1]],
-                                  self.SUIT_NAMES[card[0]])
+                                  self.SUIT_DICT[card[0]])
 
 print('Deck\n====')
 deck = Deck()
@@ -39,7 +36,7 @@ print('')
 
 class HtmlDeck(Deck):
 
-    '''A subclass of Deck. With "render" overriden'''
+    '''A subclass of Deck. With "render" overriden.'''
 
     def render(self):
         out = ['<html><head><title>Html unicode deck</title></head><body>']
@@ -59,7 +56,7 @@ print('')
 
 class UnicodeRenderMixin(object):
 
-    '''A mixin that change the way single card are rendered.'''
+    '''A mixin that change the way single card is rendered.'''
 
     def render_card(self, card):
         base = 0x1F0A0
