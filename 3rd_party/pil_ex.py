@@ -3,7 +3,6 @@ from PIL import Image
 
 # make sure lenna.png is available in directory
 import lenna_downloader
-lenna_downloader.do()
 
 PIECES = 10
 FILENAME = 'lenna.jpg'
