@@ -6,7 +6,7 @@ import lenna_downloader
 
 PIECES = 10
 FILENAME = 'lenna.jpg'
-PAZZLE = 'pazzle.jpg'
+PUZZLE = 'puzzle.jpg'
 
 
 def main():
@@ -20,7 +20,7 @@ def main():
         piece = im.crop(bounderies(x, y, piece_width, piece_height))
         row, col = divmod(i, PIECES)
         new.paste(piece, bounderies(row, col, piece_width, piece_height))
-    new.save(PAZZLE)
+    new.save(PUZZLE)
 
 def bounderies(x, y, width, height):
     '''Returns left, top, right and bottom.'''
