@@ -5,6 +5,10 @@ Write a Profiler class that implements the [context manager protocol](https://do
 
 In addition, implement a ``elapsed`` method that will trigger similar print manually.
 
+## Notes
+
+- Make sure not to count the sleeping time between the blocks
+
 ## Template
 
 	class Profiler(object):
@@ -21,6 +25,8 @@ In addition, implement a ``elapsed`` method that will trigger similar print manu
 	    for i in xrange(10000000):
 	        if i == 2939232:
 	            profiler.elapsed()
+
+	time.sleep(2)
 
 	# continue with the same profiler
 	with profiler:

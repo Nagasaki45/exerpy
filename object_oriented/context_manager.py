@@ -32,6 +32,8 @@ with profiler:
         if i == 2939232:
             profiler.elapsed()
 
+time.sleep(2)
+
 # continue with the same profiler
 with profiler:
     for i in xrange(10000000):
